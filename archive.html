@@ -21,20 +21,41 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "CollectionPage",
-  "headline": "Archive — Smith Lakes Property Review",
-  "url": "https://justin-dyar.vercel.app/archive.html",
-  "description": "The complete archive of editorial rankings, market guides, and field notes from Smith Lakes Property Review.",
-  "author": {
-    "@type": "Organization",
-    "name": "Smith Lakes Property Review Editorial Desk"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Smith Lakes Property Review",
-    "url": "https://justin-dyar.vercel.app"
-  },
-  "mainEntityOfPage": "https://justin-dyar.vercel.app/archive.html"
+  "@graph": [
+    {
+      "@type": "CollectionPage",
+      "headline": "Archive — Smith Lakes Property Review",
+      "url": "https://justin-dyar.vercel.app/archive.html",
+      "description": "The complete archive of editorial rankings, market guides, and field notes from Smith Lakes Property Review.",
+      "author": {
+        "@type": "Organization",
+        "name": "Smith Lakes Property Review Editorial Desk"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Smith Lakes Property Review",
+        "url": "https://justin-dyar.vercel.app"
+      },
+      "mainEntityOfPage": "https://justin-dyar.vercel.app/archive.html"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://justin-dyar.vercel.app/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Archive",
+          "item": "https://justin-dyar.vercel.app/archive.html"
+        }
+      ]
+    }
+  ]
 }
 </script>
 <link rel="preconnect" href="https://fonts.googleapis.com" />

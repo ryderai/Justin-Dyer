@@ -21,20 +21,52 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "About — Smith Lakes Property Review",
-  "url": "https://justin-dyar.vercel.app/about.html",
-  "description": "About the Smith Lakes Property Review editorial desk: methodology, advertising disclosure, corrections policy, and contact.",
-  "author": {
-    "@type": "Organization",
-    "name": "Smith Lakes Property Review Editorial Desk"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Smith Lakes Property Review",
-    "url": "https://justin-dyar.vercel.app"
-  },
-  "mainEntityOfPage": "https://justin-dyar.vercel.app/about.html"
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "About — Smith Lakes Property Review",
+      "url": "https://justin-dyar.vercel.app/about.html",
+      "description": "About the Smith Lakes Property Review editorial desk: methodology, advertising disclosure, corrections policy, and contact.",
+      "author": {
+        "@type": "Organization",
+        "name": "Smith Lakes Property Review Editorial Desk"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Smith Lakes Property Review",
+        "url": "https://justin-dyar.vercel.app"
+      },
+      "mainEntityOfPage": "https://justin-dyar.vercel.app/about.html"
+    },
+    {
+      "@type": "WebPage",
+      "url": "https://justin-dyar.vercel.app/about.html",
+      "name": "About — Smith Lakes Property Review",
+      "description": "About the Smith Lakes Property Review editorial desk: methodology, advertising disclosure, corrections policy, and contact.",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Smith Lakes Property Review",
+        "url": "https://justin-dyar.vercel.app"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://justin-dyar.vercel.app/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "About",
+          "item": "https://justin-dyar.vercel.app/about.html"
+        }
+      ]
+    }
+  ]
 }
 </script>
 <link rel="preconnect" href="https://fonts.googleapis.com" />
