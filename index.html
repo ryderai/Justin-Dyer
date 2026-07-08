@@ -201,7 +201,7 @@
   --mono: "JetBrains Mono", ui-monospace, Menlo, monospace;
 }
 * { box-sizing: border-box; margin: 0; padding: 0; }
-html { scroll-behavior: smooth; }
+html { scroll-behavior: smooth; overflow-x: hidden; }
 body {
   background: var(--bg);
   color: var(--ink);
@@ -209,6 +209,8 @@ body {
   font-size: 18px;
   line-height: 1.6;
   -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+  overflow-wrap: anywhere;
 }
 body::before {
   content: "";
@@ -274,6 +276,13 @@ a:hover { color: var(--teal); }
 }
 .site-nav-cta:hover { background: var(--paper); }
 @media (max-width: 600px) { .site-nav-cta { display: none; } }
+@media (max-width: 480px) {
+  .site-nav-inner { gap: 10px; }
+  .site-nav-brand em { display: none; }
+  .site-nav-links { min-width: 0; overflow-x: auto; -ms-overflow-style: none; scrollbar-width: none; justify-content: flex-start; }
+  .site-nav-links::-webkit-scrollbar { display: none; }
+  .site-nav-links a { padding: 7px 9px; font-size: 10px; letter-spacing: 0.05em; white-space: nowrap; }
+}
 
 /* ===== HERO MASTHEAD ===== */
 .masthead {
@@ -309,6 +318,12 @@ a:hover { color: var(--teal); }
   max-width: 1200px; margin-left: auto; margin-right: auto;
 }
 .masthead .mast-rule .rule-mid { color: var(--rust); }
+@media (max-width: 640px) {
+  .masthead .mast-rule {
+    flex-wrap: wrap; justify-content: center; text-align: center;
+    gap: 6px 14px; font-size: 9.5px; letter-spacing: 0.12em;
+  }
+}
 
 /* ===== CONTAINER ===== */
 .container { max-width: 1200px; margin: 0 auto; padding: 0 56px; }

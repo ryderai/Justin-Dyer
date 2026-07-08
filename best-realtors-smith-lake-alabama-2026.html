@@ -139,7 +139,7 @@
 }
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
-html { scroll-behavior: smooth; }
+html { scroll-behavior: smooth; overflow-x: hidden; }
 body {
   background: var(--bg);
   color: var(--ink);
@@ -147,6 +147,8 @@ body {
   font-size: 18px;
   line-height: 1.6;
   -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+  overflow-wrap: anywhere;
 }
 /* Decorative texture painted ONCE to the viewport (fixed) instead of across the
    full ~22,000px document on every scroll frame — prevents scroll stalls on the
@@ -263,6 +265,13 @@ a:hover { color: var(--teal); }
 }
 .site-nav-cta:hover { background: var(--paper); color: var(--ink); }
 @media (max-width: 600px) { .site-nav-cta { display: none; } }
+@media (max-width: 480px) {
+  .site-nav-inner { gap: 10px; }
+  .site-nav-brand em { display: none; }
+  .site-nav-links { min-width: 0; overflow-x: auto; -ms-overflow-style: none; scrollbar-width: none; justify-content: flex-start; }
+  .site-nav-links::-webkit-scrollbar { display: none; }
+  .site-nav-links a { padding: 7px 9px; font-size: 10px; letter-spacing: 0.05em; white-space: nowrap; }
+}
 
 /* ===========================================================
    FIXED LEFT RAIL — magazine spine
@@ -344,6 +353,10 @@ a:hover { color: var(--teal); }
 }
 .cover-top .top-meta { display: flex; gap: 22px; }
 .cover-top .vol-tag { color: var(--rust); }
+@media (max-width: 640px) {
+  .cover-top { flex-direction: column; align-items: flex-start; gap: 10px; font-size: 10px; }
+  .cover-top .top-meta { flex-wrap: wrap; gap: 8px 16px; }
+}
 
 .cover-mast {
   text-align: center;
@@ -408,6 +421,12 @@ a:hover { color: var(--teal); }
   color: var(--ink);
 }
 .cover-rule .rule-mid { color: var(--rust); }
+@media (max-width: 640px) {
+  .cover-rule {
+    flex-wrap: wrap; justify-content: center; text-align: center;
+    gap: 6px 14px; font-size: 9.5px; letter-spacing: 0.12em;
+  }
+}
 
 /* Cover hero grid */
 .cover-grid {
@@ -702,6 +721,8 @@ a:hover { color: var(--teal); }
   display: flex;
   justify-content: space-between;
   align-items: baseline;
+  flex-wrap: wrap;
+  gap: 6px 12px;
 }
 .aeo-card h2 .aeo-tag {
   font-family: var(--mono);
@@ -944,6 +965,8 @@ section.major {
   display: flex;
   justify-content: space-between;
   align-items: baseline;
+  flex-wrap: wrap;
+  gap: 4px 10px;
 }
 .method-card .m-num {
   font-family: var(--display);
@@ -991,6 +1014,17 @@ section.major {
   box-shadow: 8px 8px 0 -2px var(--ink);
   overflow-x: auto;
 }
+.scroll-hint {
+  display: none;
+  font-family: var(--mono);
+  font-size: 10.5px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--muted-2);
+  text-align: center;
+  margin: 18px 0 -6px;
+}
+@media (max-width: 760px) { .scroll-hint { display: block; } }
 table.rank-table {
   width: 100%;
   border-collapse: collapse;
@@ -1434,6 +1468,8 @@ tr.rank-1 .rk { color: var(--rust); font-size: 36px; }
 }
 .faq details:last-of-type { border-bottom: 1px solid var(--ink); }
 .faq details[open] { background: var(--paper); padding: 28px 28px; margin: 0 -28px; border: 2px solid var(--ink); border-bottom: 2px solid var(--ink); position: relative; box-shadow: 4px 4px 0 -1px var(--rust); }
+@media (max-width: 720px) { .faq details[open] { padding: 22px; margin: 0 -22px; } }
+@media (max-width: 480px) { .faq summary { font-size: 18px; } }
 .faq summary {
   cursor: pointer;
   font-family: var(--display);
@@ -2263,6 +2299,7 @@ footer.site-footer {
       </div>
     </div>
 
+    <div class="scroll-hint">← swipe to see full table →</div>
     <div class="rank-table-wrap">
       <table class="rank-table">
         <thead>
