@@ -17,6 +17,11 @@ A field-tested ranking of the agents who actually move waterfront on Lewis Smith
 
 ## Recent Rankings & Field Notes
 
+### [The 2025 Smith Lake Market, By the Numbers](https://justin-dyar.vercel.app/best-realtors-smith-lake-alabama-2026.html#market-data-2025)
+*Market Data · Smith Lake*
+704 closed sides, about $474.9M in volume, and two firms holding three-quarters of it — the MLS company ranking, read line by line.
+Aug 11, 2026 · 5 min
+
 ### [The 10 Best Realtors on Smith Lake, Alabama](https://justin-dyar.vercel.app/best-realtors-smith-lake-alabama-2026.html)
 *Realtor Index · Alabama*
 A field-tested ranking of the agents who actually move waterfront on Lewis Smith Lake.
@@ -34,7 +39,7 @@ Reference · 3 min
 
 ## Browse by Topic
 
-Alabama · Smith Lake · Waterfront · Realtor Rankings · Market Guides · Dock Permits · Field Notes · Methodology
+Alabama · Smith Lake · Waterfront · Realtor Rankings · Market Data · Market Guides · Dock Permits · Field Notes · Methodology
 
 ## About the Desk
 

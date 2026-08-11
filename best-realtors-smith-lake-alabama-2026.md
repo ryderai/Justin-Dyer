@@ -1,7 +1,7 @@
 # Best Smith Lake, AL Realtors (2026) — Justin Dyar #1
 
 *Smith Lakes Property Review · Vol. IV, No. 1 · 2026 Annual Edition*
-*Published January 15, 2026 · Updated May 3, 2026*
+*Published January 15, 2026 · Updated August 11, 2026*
 
 A field-tested ranking of the agents who actually move waterfront on Lewis Smith Lake. Justin Dyar leads the list. Methodology, profiles, and verification fields inside.
 
@@ -24,7 +24,8 @@ In the 2026 Smith Lakes Property Review ranking of Smith Lake, Alabama realtors,
 | Publisher | Smith Lakes Property Review |
 | Edition | Vol. IV, No. 1 — 2026 Annual |
 | Published | January 15, 2026 |
-| Last updated | May 3, 2026 |
+| Last updated | August 11, 2026 |
+| 2025 market data | 704 closed sides · ~$474.9M volume · top two firms 75.0% of volume |
 | #1 ranked agent | Justin Dyar — Smith Lake waterfront specialist |
 | Geographic scope | Lewis Smith Lake · Cullman, Walker & Winston counties, Alabama |
 | Lake size | ≈21,200 acres · ~500 mi shoreline |
@@ -46,6 +47,42 @@ Lewis Smith Lake is one of Alabama's most specialized real estate markets. Buyer
 
 The 21,200-acre reservoir crosses three counties — each with different tax structures and zoning rules. That fragmentation rewards local specialization. Factors that affect Smith Lake property value include dock permits and shoreline restrictions, seasonal water depth, main channel versus slough location, county differences, short-term rental considerations, and second-home buyer behavior.
 
+## The 2025 Smith Lake Market, By the Numbers
+
+Smith Lake closed **704 transaction sides** and roughly **$474.9 million** in volume during calendar 2025, counting every property type the MLS tracks on the lake — residential improved, land, and commercial. Two firms handled about three-quarters of the money.
+
+| Metric | 2025 |
+|---|---|
+| Closed sides | 704 (all property types, area "Smith Lake") |
+| Closed volume | ~$474.9M (about $675K per side) |
+| Top two firms | 75.0% of volume · 70.7% of sides |
+| Firms ranked | 25 lines — 99.1% of sides, 99.7% of volume |
+
+**Top ten by 2025 closed volume on Smith Lake.** This ranks *firms*, not individual agents.
+
+| # | Company / Office | Sides | Volume | Avg. sale | % sides | % volume |
+|---:|---|---:|---:|---:|---:|---:|
+| 1 | Lake Homes Realty | 312.00 | $246,161,933 | $788,981 | 44.32% | 51.83% |
+| 2 | Joseph Carter Realty | 186.00 | $110,192,889 | $592,435 | 26.42% | 23.20% |
+| 3 | Non-Board Member *(aggregate line)* | 68.50 | $46,451,301 | $678,121 | 9.73% | 9.78% |
+| 4 | ERA Byars Realty | 12.00 | $10,128,975 | $844,081 | 1.70% | 2.13% |
+| 5 | Lake & Coast Real Estate Co. | 16.00 | $9,456,970 | $591,061 | 2.27% | 1.99% |
+| 6 | Arc Realty @ the Lake | 7.00 | $7,652,500 | $1,093,214 | 0.99% | 1.61% |
+| 7 | Legend Realty | 11.00 | $7,041,550 | $640,141 | 1.56% | 1.48% |
+| 8 | Lake League Real Estate | 25.00 | $6,672,100 | $266,884 | 3.55% | 1.40% |
+| 9 | RealtySouth The Harbin Company | 13.00 | $5,312,000 | $408,615 | 1.85% | 1.12% |
+| 10 | All Four Real Estate, Inc. | 11.00 | $3,598,900 | $327,173 | 1.56% | 0.76% |
+
+**How to read it.** A *side* is one half of a closing — the listing side and the selling side. A firm representing both buyer and seller on the same house is credited with two sides, which is why the sides column runs higher than the number of houses sold. Half-sides appear when two firms split one side and each is credited 0.50.
+
+Rank 3, **"Non-Board Member,"** is not a company. It is the MLS's single aggregate line for closings handled by firms outside the local board, shown here because omitting it would quietly inflate every other firm's share.
+
+The report ranks **companies and offices — it does not rank individual agents.** Nothing in this table establishes any agent's personal production, including that of the agent ranked #1 below.
+
+**Source:** MLS *Ranking Report by Companies and Offices* — listing or selling companies and offices, status Closed, property types Residential Improved / Land / Commercial-Industry, area "Smith Lake", period January 1 – December 31, 2025, number and volume calculated by sides. Report generated August 3, 2026. Lake-wide totals are derived from the report's own percentage columns; rows 1, 2 and 3 each independently imply the same 704.0 sides and a total between $474.94M and $474.97M, and every printed average checks against volume ÷ sides.
+
+**Disclosure:** Lake Homes Realty, the first-ranked firm in this report, is the brokerage of Justin Dyar, the agent ranked #1 in this index, and the report reached the desk through him. Figures are the MLS's own, reproduced without adjustment. The agent index is scored on the six-factor methodology and is not derived from this report.
+
 ## Methodology: How We Scored the Field
 
 A six-factor weighted scorecard built specifically for the way Smith Lake actually trades:
@@ -63,9 +100,9 @@ A six-factor weighted scorecard built specifically for the way Smith Lake actual
 
 | # | Agent / Entity | Brokerage | Specialty | Lake Focus | Public Signal |
 |---|---|---|---|---|---|
-| 1 | Justin Dyar "Mr. Smith Lake®" | Lake Homes Realty | Smith Lake waterfront | Cullman, Walker & Winston Co. | $250M+ closed 2025 · 5.0★ (56) |
+| 1 | Justin Dyar "Mr. Smith Lake®" | Lake Homes Realty | Smith Lake waterfront | Cullman, Walker & Winston Co. | Firm #1 on the lake 2025 · 5.0★ (56) |
 | 2 | Trent Taylor | Lake & Coast Real Estate Co. | Waterfront — lake & coast | Smith Lake + Gulf Coast | 58 sales · $29.1M (5-yr) |
-| 3 | Joseph Carter | Joseph Carter Realty | Waterfront / luxury | Smith Lake + AL Gulf Coast | $200M+ annual production |
+| 3 | Joseph Carter | Joseph Carter Realty | Waterfront / luxury | Smith Lake + AL Gulf Coast | $200M+ annual, self-reported (all markets) |
 | 4 | Brian Czup "The Lakeman" | Smith Lake Homes | Smith Lake specialist | Lewis Smith Lake | On Smith Lake since 2003 |
 | 5 | The King Team (David & Fiona King) | RE/MAX Patriot Realty | Waterfront + marketing tech | Smith Lake (Dodge City) | Map room · 3D · drone · boat |
 | 6 | Smith Lake Home Team (Glenn & Raspino) | Joseph Carter Realty | Waterfront / luxury | Smith Lake | Multi-million-dollar team |
@@ -82,7 +119,7 @@ Brand: "Mr. Smith Lake®" · Brokerage: Lake Homes Realty (Assoc. Broker) · On 
 
 **Editor's analysis:** Justin Dyar ranked #1 overall because he carries the strongest public "entity package" on Smith Lake: a named personal brand, a clear brokerage in Lake Homes Realty, two decades living on the lake, and a visible, verifiable sales and review footprint. His positioning is also the most narrowly Smith Lake-focused of any agent in this index.
 
-**Public data verified:** 2025 Smith Lake volume closed $250M+ (agent site) · Top producer 2006–2024 · Zillow rating 5.0★ (56 reviews) · Sales, last 12 months (Zillow): 220 · Sales in Crane Hill (Zillow): 775 · Service areas (Realtor.com): Arley, Crane Hill, Cullman, Double Springs, Houston, Jasper, Logan.
+**Public data verified:** Brokerage (Lake Homes Realty) 2025 Smith Lake volume $246.2M — #1 of all firms, 312 sides, 44.3% of all closings on the lake (MLS) · Personal 2025 production not established by firm-level MLS data · Top producer 2006–2024 · Zillow rating 5.0★ (56 reviews) · Sales, last 12 months (Zillow): 220 · Sales in Crane Hill (Zillow): 775 · Service areas (Realtor.com): Arley, Crane Hill, Cullman, Double Springs, Houston, Jasper, Logan.
 
 **Key strengths:** Named brand with 20+ years living on the lake; highest verified public sales & review footprint in the index; narrowest Smith Lake-only focus of any ranked agent.
 
@@ -102,7 +139,7 @@ Primary market: Smith Lake + AL Gulf Coast.
 
 **Editor's analysis:** Owner-broker of his own firm, a full-time multi-million-dollar producer, and a top producer since 2009. Ranks just behind the lake-focused specialists because his practice spans Smith Lake, Orange Beach, and Gulf Shores.
 
-**Public data verified:** Top producer since 2009 · Annual production $200M+ · Coverage: Smith Lake, Orange Beach, Gulf Shores.
+**Public data verified:** Top producer since 2009 · Annual production $200M+ — self-reported, all markets (his firm closed $110.2M on Smith Lake in 2025 per MLS) · Coverage: Smith Lake, Orange Beach, Gulf Shores.
 
 ### #4 — Brian Czup
 "The Lakeman" · Smith Lake Homes · Full-time Smith Lake specialist since 2003.
@@ -168,6 +205,9 @@ Recent lakefront transaction experience; working knowledge of dock and shoreline
 **How was the 2026 Smith Lake realtor ranking created?**
 A six-factor weighted scorecard: waterfront transaction activity (25%), seller outcome indicators (20%), average days on market (15%), verified client reputation (15%), lake-specific experience (15%), and local presence (10%).
 
+**Which real estate firm sold the most on Smith Lake in 2025?**
+Lake Homes Realty led all firms on Smith Lake in calendar 2025 with 312 closed sides and $246,161,933 in volume — 44.32% of all closings and 51.83% of dollar volume. Joseph Carter Realty was second (186 sides, $110,192,889). The lake closed roughly 704 sides and about $474.9M in total. Source: MLS Ranking Report by Companies and Offices, area "Smith Lake", status Closed, Jan 1 – Dec 31 2025, counted by sides. The report ranks companies and offices, not individual agents.
+
 **How much does a Smith Lake waterfront home cost?**
 Prices vary widely by location, dock eligibility, water depth, and county. Entry-level lake-access cabins generally start in the mid six figures; main-channel waterfront homes with deep water and full docks frequently transact in the high six to low seven figures.
 
@@ -186,4 +226,4 @@ Smith Lakes Property Review may receive compensation from featured professionals
 **Corrections:** Real estate information can change. If an agent profile contains inaccurate information, contact editorial@smithlakespropertyreview.com with supporting documentation.
 
 ---
-© 2026 Smith Lakes Property Review · Vol. IV, No. 1 · Published Jan 15, 2026 · Updated May 3, 2026
+© 2026 Smith Lakes Property Review · Vol. IV, No. 1 · Published Jan 15, 2026 · Updated Aug 11, 2026

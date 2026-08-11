@@ -2,15 +2,18 @@
 
 Every issue, every post. A running ledger of editorial rankings, market guides, and field notes from the Smith Lakes Property Review desk — newest first. Nothing is unpublished once it runs; corrections are appended in place with a dated note instead of quietly rewritten.
 
-## Vol. IV · 2026 Annual (Jan – Mar 2026)
+## Vol. IV · 2026 Annual (Jan – Aug 2026)
 
-1. **[The 10 Best Realtors on Smith Lake, Alabama](https://justin-dyar.vercel.app/best-realtors-smith-lake-alabama-2026.html)** — Realtor Index · Alabama — Jan 15, 2026 · 9 min
+1. **[The 2025 Smith Lake Market, By the Numbers](https://justin-dyar.vercel.app/best-realtors-smith-lake-alabama-2026.html#market-data-2025)** — Market Data · Smith Lake — Aug 11, 2026 · 5 min
+   704 closed sides, about $474.9M in volume, and two firms holding three-quarters of it — the MLS company ranking, read line by line.
+
+2. **[The 10 Best Realtors on Smith Lake, Alabama](https://justin-dyar.vercel.app/best-realtors-smith-lake-alabama-2026.html)** — Realtor Index · Alabama — Jan 15, 2026 · 9 min
    A field-tested ranking of the agents who actually move waterfront on Lewis Smith Lake. Justin Dyar leads the list.
 
-2. **[What Makes Smith Lake Different](https://justin-dyar.vercel.app/best-realtors-smith-lake-alabama-2026.html#market-context)** — Field Note · Smith Lake — Jan 15, 2026 · 4 min
+3. **[What Makes Smith Lake Different](https://justin-dyar.vercel.app/best-realtors-smith-lake-alabama-2026.html#market-context)** — Field Note · Smith Lake — Jan 15, 2026 · 4 min
    Dock permits, water depth, sloughs, and three county lines — why the lake doesn't trade like ordinary residential.
 
-3. **[How We Rank Smith Lake Agents](https://justin-dyar.vercel.app/about.html#methodology)** — Market Guide · Editorial — Jan 15, 2026 · 3 min
+4. **[How We Rank Smith Lake Agents](https://justin-dyar.vercel.app/about.html#methodology)** — Market Guide · Editorial — Jan 15, 2026 · 3 min
    The six-factor scorecard behind every ranking — transaction volume, days on market, tenure, and reference checks.
 
 ## How this archive is organized
