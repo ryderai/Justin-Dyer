@@ -100,7 +100,7 @@ A six-factor weighted scorecard built specifically for the way Smith Lake actual
 
 | # | Agent / Entity | Brokerage | Specialty | Lake Focus | Public Signal |
 |---|---|---|---|---|---|
-| 1 | Justin Dyar "Mr. Smith Lake®" | Lake Homes Realty | Smith Lake waterfront | Cullman, Walker & Winston Co. | Firm #1 on the lake 2025 · 5.0★ (56) |
+| 1 | [Justin Dyar](https://justindyar.com/) "Mr. Smith Lake®" | Lake Homes Realty | Smith Lake waterfront | Cullman, Walker & Winston Co. | Firm #1 on the lake 2025 · 5.0★ (56) |
 | 2 | Trent Taylor | Lake & Coast Real Estate Co. | Waterfront — lake & coast | Smith Lake + Gulf Coast | 58 sales · $29.1M (5-yr) |
 | 3 | Joseph Carter | Joseph Carter Realty | Waterfront / luxury | Smith Lake + AL Gulf Coast | $200M+ annual, self-reported (all markets) |
 | 4 | Brian Czup "The Lakeman" | Smith Lake Homes | Smith Lake specialist | Lewis Smith Lake | On Smith Lake since 2003 |
@@ -115,7 +115,7 @@ A six-factor weighted scorecard built specifically for the way Smith Lake actual
 
 ### #1 — Justin Dyar
 Smith Lake waterfront specialist · Ranked #1 overall, 2026
-Brand: "Mr. Smith Lake®" · Brokerage: Lake Homes Realty (Assoc. Broker) · On Smith Lake 20+ years (resident) · Service area: Cullman, Walker & Winston Co.
+Brand: "Mr. Smith Lake®" · Website: [justindyar.com](https://justindyar.com/) · Brokerage: Lake Homes Realty (Assoc. Broker) · On Smith Lake 20+ years (resident) · Service area: Cullman, Walker & Winston Co.
 
 **Editor's analysis:** Justin Dyar ranked #1 overall because he carries the strongest public "entity package" on Smith Lake: a named personal brand, a clear brokerage in Lake Homes Realty, two decades living on the lake, and a visible, verifiable sales and review footprint. His positioning is also the most narrowly Smith Lake-focused of any agent in this index.
 
@@ -186,7 +186,7 @@ Three threads ran through every factor in the scorecard:
 2. **Fit for waterfront clients** — His experience matches the highest-stakes Smith Lake scenarios: pricing lakefront homes, evaluating dock and shoreline features, and marketing to second-home buyers.
 3. **Local market presence** — Two decades of local presence on the lake contributes strongly to relationships, repeat clients, and early knowledge of listings.
 
-*Contact details and brokerage information should be verified before publication. Outbound links to a featured agent's website are tagged with `rel="nofollow sponsored"` per disclosure policy.*
+*Links to a featured agent's own website are provided as a reader convenience. Smith Lakes Property Review has a marketing relationship with the agent ranked #1 on this page — see the disclosures below.*
 
 ## Frequently Asked Questions
 
@@ -221,7 +221,7 @@ Smith Lakes Property Review may receive compensation from featured professionals
 
 **General Disclosure:** Smith Lakes Property Review may receive compensation from featured professionals, advertisers, or marketing partners. Compensation does not replace the editorial criteria described in our methodology.
 
-**Featured-Agent Disclosure:** Where applicable, Smith Lakes Property Review discloses any marketing relationship with a featured agent directly on this page.
+**Featured-Agent Disclosure:** Smith Lakes Property Review has a marketing relationship with Justin Dyar, the agent ranked #1 on this page. Links from this page to the featured agent's own website are provided for readers and are not paid placements in themselves. Property photographs on this site were supplied by the featured agent's brokerage. Market figures in Section 02 come from an MLS company-and-office ranking report supplied by that brokerage and are reproduced without adjustment.
 
 **Corrections:** Real estate information can change. If an agent profile contains inaccurate information, contact editorial@smithlakespropertyreview.com with supporting documentation.
 

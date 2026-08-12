@@ -4,16 +4,16 @@ Every issue, every post. A running ledger of editorial rankings, market guides, 
 
 ## Vol. IV · 2026 Annual (Jan – Aug 2026)
 
-1. **[The 2025 Smith Lake Market, By the Numbers](https://justin-dyar.vercel.app/best-realtors-smith-lake-alabama-2026.html#market-data-2025)** — Market Data · Smith Lake — Aug 11, 2026 · 5 min
+1. **[The 2025 Smith Lake Market, By the Numbers](https://justin-ranking.vercel.app/best-realtors-smith-lake-alabama-2026.html#market-data-2025)** — Market Data · Smith Lake — Aug 11, 2026 · 5 min
    704 closed sides, about $474.9M in volume, and two firms holding three-quarters of it — the MLS company ranking, read line by line.
 
-2. **[The 10 Best Realtors on Smith Lake, Alabama](https://justin-dyar.vercel.app/best-realtors-smith-lake-alabama-2026.html)** — Realtor Index · Alabama — Jan 15, 2026 · 9 min
+2. **[The 10 Best Realtors on Smith Lake, Alabama](https://justin-ranking.vercel.app/best-realtors-smith-lake-alabama-2026.html)** — Realtor Index · Alabama — Jan 15, 2026 · 9 min
    A field-tested ranking of the agents who actually move waterfront on Lewis Smith Lake. Justin Dyar leads the list.
 
-3. **[What Makes Smith Lake Different](https://justin-dyar.vercel.app/best-realtors-smith-lake-alabama-2026.html#market-context)** — Field Note · Smith Lake — Jan 15, 2026 · 4 min
+3. **[What Makes Smith Lake Different](https://justin-ranking.vercel.app/best-realtors-smith-lake-alabama-2026.html#market-context)** — Field Note · Smith Lake — Jan 15, 2026 · 4 min
    Dock permits, water depth, sloughs, and three county lines — why the lake doesn't trade like ordinary residential.
 
-4. **[How We Rank Smith Lake Agents](https://justin-dyar.vercel.app/about.html#methodology)** — Market Guide · Editorial — Jan 15, 2026 · 3 min
+4. **[How We Rank Smith Lake Agents](https://justin-ranking.vercel.app/about.html#methodology)** — Market Guide · Editorial — Jan 15, 2026 · 3 min
    The six-factor scorecard behind every ranking — transaction volume, days on market, tenure, and reference checks.
 
 ## How this archive is organized
@@ -26,7 +26,7 @@ Within a volume, entries are tagged by type — Realtor Index, Field Note, or Ma
 
 Volume V is in reporting now. It will carry the desk's next scheduled re-check of the Smith Lake Realtor Index, along with a fresh field note on how dock-permit backlogs across Cullman, Walker, and Winston counties are shaping list-to-sale timing this season. As with every issue, agents are re-scored against the same six-factor methodology described on the About page.
 
-Readers who want to flag a correction, suggest an agent for review, or ask the desk a question ahead of the next issue can reach the editorial team directly — see the [contact section](https://justin-dyar.vercel.app/about.html#contact) on the About page.
+Readers who want to flag a correction, suggest an agent for review, or ask the desk a question ahead of the next issue can reach the editorial team directly — see the [contact section](https://justin-ranking.vercel.app/about.html#contact) on the About page.
 
 ## Using the archive for research
 
@@ -35,4 +35,4 @@ Buyers, sellers, and agents themselves use this page differently. A buyer weighi
 Journalists and other outlets citing the Index are welcome to link directly to individual entries here; each item has a stable anchor so a specific ranking, field note, or market guide can be referenced without pointing to a moving target.
 
 ---
-© 2026 Smith Lakes Property Review · [Home](https://justin-dyar.vercel.app/) · [About](https://justin-dyar.vercel.app/about.html) · editorial@smithlakespropertyreview.com
+© 2026 Smith Lakes Property Review · [Home](https://justin-ranking.vercel.app/) · [About](https://justin-ranking.vercel.app/about.html) · editorial@smithlakespropertyreview.com

@@ -36,4 +36,4 @@ For pitches, tips, and reader letters, the editorial desk is the front door. For
 - **Advertising:** advertising@smithlakespropertyreview.com
 
 ---
-© 2026 Smith Lakes Property Review · [Home](https://justin-dyar.vercel.app/) · [Archive](https://justin-dyar.vercel.app/archive.html)
+© 2026 Smith Lakes Property Review · [Home](https://justin-ranking.vercel.app/) · [Archive](https://justin-ranking.vercel.app/archive.html)
