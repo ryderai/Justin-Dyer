@@ -41,4 +41,4 @@ Allow: /
 User-agent: MistralAI-User
 Allow: /
 
-Sitemap: https://justin-ranking.vercel.app/sitemap.xml
+Sitemap: https://www.smithlakespropertyreview.com/sitemap.xml

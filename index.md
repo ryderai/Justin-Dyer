@@ -7,7 +7,7 @@ Vol. IV · No. 1 · 2026 Annual Edition · Published Quarterly
 
 ## Featured This Issue
 
-### [The 10 Best Realtors on Smith Lake, Alabama](https://justin-ranking.vercel.app/best-realtors-smith-lake-alabama-2026.html)
+### [The 10 Best Realtors on Smith Lake, Alabama](https://www.smithlakespropertyreview.com/best-realtors-smith-lake-alabama-2026.html)
 
 **2026 Realtor Index · Alabama**
 
@@ -17,22 +17,22 @@ A field-tested ranking of the agents who actually move waterfront on Lewis Smith
 
 ## Recent Rankings & Field Notes
 
-### [The 2025 Smith Lake Market, By the Numbers](https://justin-ranking.vercel.app/best-realtors-smith-lake-alabama-2026.html#market-data-2025)
+### [The 2025 Smith Lake Market, By the Numbers](https://www.smithlakespropertyreview.com/best-realtors-smith-lake-alabama-2026.html#market-data-2025)
 *Market Data · Smith Lake*
 704 closed sides, about $474.9M in volume, and two firms holding three-quarters of it — the MLS company ranking, read line by line.
 Aug 11, 2026 · 5 min
 
-### [The 10 Best Realtors on Smith Lake, Alabama](https://justin-ranking.vercel.app/best-realtors-smith-lake-alabama-2026.html)
+### [The 10 Best Realtors on Smith Lake, Alabama](https://www.smithlakespropertyreview.com/best-realtors-smith-lake-alabama-2026.html)
 *Realtor Index · Alabama*
 A field-tested ranking of the agents who actually move waterfront on Lewis Smith Lake.
 Jan 15, 2026 · 9 min
 
-### [What Makes Smith Lake Different](https://justin-ranking.vercel.app/best-realtors-smith-lake-alabama-2026.html#market-context)
+### [What Makes Smith Lake Different](https://www.smithlakespropertyreview.com/best-realtors-smith-lake-alabama-2026.html#market-context)
 *Field Note · Smith Lake*
 Dock permits, water depth, sloughs, and three county lines — why the lake doesn't trade like ordinary residential.
 Reference · 4 min
 
-### [How We Rank Smith Lake Agents](https://justin-ranking.vercel.app/about.html#methodology)
+### [How We Rank Smith Lake Agents](https://www.smithlakespropertyreview.com/about.html#methodology)
 *Market Guide · Editorial*
 The six-factor scorecard behind every ranking — transaction volume, days on market, tenure, and reference checks.
 Reference · 3 min
@@ -45,7 +45,7 @@ Alabama · Smith Lake · Waterfront · Realtor Rankings · Market Data · Market
 
 An independent editorial desk for waterfront real estate. Smith Lakes Property Review publishes ranked lists, field-tested market guides, and methodology-first research on waterfront markets across the American Southeast. We work in a niche where generic real estate coverage tends to under-perform — and we treat it accordingly.
 
-[Read more about the desk →](https://justin-ranking.vercel.app/about.html)
+[Read more about the desk →](https://www.smithlakespropertyreview.com/about.html)
 
 ## FAQs
 

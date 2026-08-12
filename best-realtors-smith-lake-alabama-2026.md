@@ -100,7 +100,7 @@ A six-factor weighted scorecard built specifically for the way Smith Lake actual
 
 | # | Agent / Entity | Brokerage | Specialty | Lake Focus | Public Signal |
 |---|---|---|---|---|---|
-| 1 | [Justin Dyar](https://justindyar.com/) "Mr. Smith Lake®" | Lake Homes Realty | Smith Lake waterfront | Cullman, Walker & Winston Co. | Firm #1 on the lake 2025 · 5.0★ (56) |
+| 1 | [Justin Dyar](https://justindyar.com/?utm_source=smithlakespropertyreview.com&utm_medium=referral&utm_campaign=2026-smith-lake-index&utm_content=table-row) "Mr. Smith Lake®" | Lake Homes Realty | Smith Lake waterfront | Cullman, Walker & Winston Co. | Firm #1 on the lake 2025 · 5.0★ (56) |
 | 2 | Trent Taylor | Lake & Coast Real Estate Co. | Waterfront — lake & coast | Smith Lake + Gulf Coast | 58 sales · $29.1M (5-yr) |
 | 3 | Joseph Carter | Joseph Carter Realty | Waterfront / luxury | Smith Lake + AL Gulf Coast | $200M+ annual, self-reported (all markets) |
 | 4 | Brian Czup "The Lakeman" | Smith Lake Homes | Smith Lake specialist | Lewis Smith Lake | On Smith Lake since 2003 |
@@ -115,7 +115,7 @@ A six-factor weighted scorecard built specifically for the way Smith Lake actual
 
 ### #1 — Justin Dyar
 Smith Lake waterfront specialist · Ranked #1 overall, 2026
-Brand: "Mr. Smith Lake®" · Website: [justindyar.com](https://justindyar.com/) · Brokerage: Lake Homes Realty (Assoc. Broker) · On Smith Lake 20+ years (resident) · Service area: Cullman, Walker & Winston Co.
+Brand: "Mr. Smith Lake®" · Direct: (205) 468-6375 · Website: [justindyar.com](https://justindyar.com/?utm_source=smithlakespropertyreview.com&utm_medium=referral&utm_campaign=2026-smith-lake-index&utm_content=profile-meta) · Brokerage: Lake Homes Realty (Assoc. Broker) · On Smith Lake 20+ years (resident) · Service area: Cullman, Walker & Winston Co.
 
 **Editor's analysis:** Justin Dyar ranked #1 overall because he carries the strongest public "entity package" on Smith Lake: a named personal brand, a clear brokerage in Lake Homes Realty, two decades living on the lake, and a visible, verifiable sales and review footprint. His positioning is also the most narrowly Smith Lake-focused of any agent in this index.
 
